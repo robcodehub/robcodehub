@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robcodehub)](https://github.com/robcodehub/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robcodehub&layout=compact)](https://github.com/robcodehub/github-readme-stats)
 
 [![Rob's github stats](https://github-readme-stats.vercel.app/api?username=robcodehub)](https://github.com/robcodehub/github-readme-stats)
 
