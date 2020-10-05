@@ -1,8 +1,12 @@
 ### Hi there 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robcodehub&layout=compact)](https://github.com/robcodehub/github-readme-stats)
 
-[![Rob's github stats](https://github-readme-stats.vercel.app/api?username=robcodehub)](https://github.com/robcodehub/github-readme-stats)
+<a href="https://github.com/robcodehub/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=robcodehub&show_icons=true&theme=radical&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/robcodehub/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robcodehub&layout=compact&langs_count=10&theme=radical)" />
+</a>
 
 <!--
 **robcodehub/robcodehub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
