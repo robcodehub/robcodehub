@@ -1,10 +1,10 @@
 
 <a href="https://github.com/robcodehub/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=robcodehub&show_icons=true&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=robcodehub&show_icons=true&theme=algolia" />
 </a>
 
 <a href="https://github.com/robcodehub/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robcodehub&layout=compact&langs_count=8&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robcodehub&layout=compact&langs_count=8&theme=algolia" />
 </a>
 
 <!--
