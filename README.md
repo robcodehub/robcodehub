@@ -1,5 +1,10 @@
-
-
+<h2 align="center">About Me</h2>
+<p align="center">
+    Senior software engineer working primarily with React, JavaScript, TypeScript, Node, and Ruby on Rails. <br />
+    Experienced in leading and working with teams in the Australian fintech & U.S tech start-up sectors.<br />
+    Passionate about fintech, start-ups and emerging industries such as blockchain and Web3 technologies. 
+</p>
+<h2 align="center">Skills and Technologies</h2>
 <h3 align="center">Frontend</h3>
 <p align="center">
     <img src="https://img.shields.io/badge/react-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black"
@@ -51,7 +56,7 @@
       alt="mongodb"/>
 </p>
 
-<h3 align="center">Cloud & Hosting:</h3>
+<h3 align="center">Cloud & Hosting</h3>
 <p align="center">
     <img src="https://img.shields.io/badge/google%20cloud-4285F4.svg?style=for-the-badge&logo=googlecloud&logoColor=white" alt="googlecloud"/>
     <img src="https://img.shields.io/badge/firebase-FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black" alt="firebase"/>
