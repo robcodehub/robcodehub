@@ -9,10 +9,14 @@
 <p align="center">
     <img src="https://img.shields.io/badge/react-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black"
       alt="react"/>
+      <img src="https://img.shields.io/badge/next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white"
+      alt="next.js"/>
     <img src="https://img.shields.io/badge/typescript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white"
       alt="typescript"/>
     <img src="https://img.shields.io/badge/Javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"
       alt="javascript"/>
+      <img src="https://img.shields.io/badge/solidity-363636.svg?style=for-the-badge&logo=solidity&logoColor=white"
+      alt="next.js"/>
     <img src="https://img.shields.io/badge/html-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"
       alt="html5"/>
     <img src="https://img.shields.io/badge/css-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white"
@@ -36,6 +40,8 @@
 <p align="center">
     <img src="https://img.shields.io/badge/node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white"
       alt="nodejs"/>
+     <img src="https://img.shields.io/badge/next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white"
+      alt="next.js"/>
     <img src="https://img.shields.io/badge/ruby%20on%20rails-CC0000.svg?style=for-the-badge&logo=ruby&logoColor=white"
       alt="rubyonrails"/>
     <img src="https://img.shields.io/badge/express-000000.svg?style=for-the-badge&logo=express&logoColor=white"
