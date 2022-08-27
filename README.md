@@ -16,7 +16,7 @@
     <img src="https://img.shields.io/badge/Javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"
       alt="javascript"/>
       <img src="https://img.shields.io/badge/solidity-363636.svg?style=for-the-badge&logo=solidity&logoColor=white"
-      alt="next.js"/>
+      alt="solidity"/>
     <img src="https://img.shields.io/badge/html-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"
       alt="html5"/>
     <img src="https://img.shields.io/badge/css-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white"
@@ -47,6 +47,8 @@
     <img src="https://img.shields.io/badge/express-000000.svg?style=for-the-badge&logo=express&logoColor=white"
       alt="express" />
     <img src="https://img.shields.io/badge/graphql-E10098.svg?style=for-the-badge&logo=graphql&logoColor=white" alt="graphql" />
+     <img src="https://img.shields.io/badge/vercel-000000.svg?style=for-the-badge&logo=vercel&logoColor=white"
+      alt="vercel"/>
     <img src="https://img.shields.io/badge/apollo%20graphql-311C87.svg?style=for-the-badge&logo=apollographql&logoColor=white" alt="apollographql" />
 </p>
 
