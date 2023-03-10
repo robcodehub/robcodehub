@@ -34,24 +34,39 @@
       alt="bootstrap"/>
     <img src="https://img.shields.io/badge/babel-F9DC3E.svg?style=for-the-badge&logo=babel&logoColor=black" alt="babel"/>
     <img src="https://img.shields.io/badge/gatsbyjs-663399.svg?style=for-the-badge&logo=gatsby&logoColor=white" alt="gatsby" />
-    <img src="https://img.shields.io/badge/react%20native-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black"
-      alt="reactnative"/>
 </p>
 
 <h3 align="center">Backend</h3>
 <p align="center">
     <img src="https://img.shields.io/badge/node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white"
       alt="nodejs"/>
+        <img src="https://img.shields.io/badge/python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white"
+      alt="python"/>
+            <img src="https://img.shields.io/badge/django-092E20.svg?style=for-the-badge&logo=django&logoColor=white"
+      alt="django"/>
      <img src="https://img.shields.io/badge/next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white"
       alt="next.js"/>
     <img src="https://img.shields.io/badge/ruby%20on%20rails-CC0000.svg?style=for-the-badge&logo=ruby&logoColor=white"
       alt="rubyonrails"/>
+    </p>
+    <p align="center">
     <img src="https://img.shields.io/badge/express-000000.svg?style=for-the-badge&logo=express&logoColor=white"
       alt="express" />
     <img src="https://img.shields.io/badge/graphql-E10098.svg?style=for-the-badge&logo=graphql&logoColor=white" alt="graphql" />
      <img src="https://img.shields.io/badge/vercel-000000.svg?style=for-the-badge&logo=vercel&logoColor=white"
       alt="vercel"/>
     <img src="https://img.shields.io/badge/apollo%20graphql-311C87.svg?style=for-the-badge&logo=apollographql&logoColor=white" alt="apollographql" />
+</p>
+
+<h3 align="center">Mobile Apps</h3>
+<p align="center">
+      <img src="https://img.shields.io/badge/react%20native-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black"
+      alt="reactnative"/>
+    <img src="https://img.shields.io/badge/swift-F05138.svg?style=for-the-badge&logo=swift&logoColor=white"
+      alt="swift"/>
+    <img src="https://img.shields.io/badge/xcode-147EFB.svg?style=for-the-badge&logo=xcode&logoColor=white"
+      alt="xcode"/>
+    
 </p>
 
 <h3 align="center">Database</h3>
@@ -80,6 +95,7 @@
     <img src="https://img.shields.io/badge/puppeteer-40B5A4.svg?style=for-the-badge&logo=puppeteer&logoColor=white"
       alt="puppeteer" />
     <img src="https://img.shields.io/badge/cypress-17202C.svg?style=for-the-badge&logo=cypress&logoColor=white" alt="junit5" />
+    
 </p>
 
 <h3 align="center">Version Control & CI/CD</h3>
