@@ -1,6 +1,6 @@
 <h2 align="center">About Me</h2>
 <p align="center">
-    Senior software engineer working primarily with React, JavaScript, TypeScript, Node, and Ruby on Rails. <br />
+    Senior software engineer working primarily with React, JavaScript, TypeScript, Node, and Swift. <br />
     Experienced in leading and working with teams in the Australian fintech & U.S tech start-up sectors.<br />
     Passionate about fintech, start-ups and emerging industries such as blockchain and Web3 technologies. 
 </p>
