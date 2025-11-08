@@ -1,7 +1,6 @@
 <h2 align="center">About Me</h2>
 <p align="center">
-    Senior Software Development Engineer (Web and Mobile) working primarily with: <br /> Svelte, React, TypeScript, JavaScript, Python, C#, SwiftUI and React Native.<br /><br />
-    Experienced in leading and working with teams in the Australian fintech & U.S tech start-up sectors.<br />
+   Lead AI Engineer experienced in leading and working with teams in the Australian fintech & U.S tech start-up sectors.<br />
     Passionate about healthtech, fintech, start-ups, Apple, and cutting edge technologies. 
 <br /> <br />
 Currently focused on: Agentic A.I, Quantum Computing, and A.R. 
